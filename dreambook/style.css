@@ -1,0 +1,53 @@
+.link-misc{
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+.body-wrapper{
+    padding: 5px;
+    text-align: left;
+    background-color:aliceblue;
+    margin: 10%;
+    margin-top: 0%;
+}
+
+.wrapper{
+    padding: 5px;
+    text-align: left;
+    background-color:aliceblue;
+}
+
+.block{
+    padding: 3px;
+    margin: 3px;
+}
+
+.dr-avatar{
+    width: 200px;
+    height: 200px;
+    border-radius: 6px;
+}
+
+.dr-header{
+    background-color: rgb(81, 93, 158);
+    padding: 10px;
+    padding-bottom: 15px;
+    margin: 30px;
+    border-radius: 6px;
+}
+
+.dr-footer{
+    background-color: rgb(81, 93, 158);
+    color: white;
+    padding: 10px;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+
+.footer-wrapper{
+    margin-top: 100px;
+}
+
+li {
+    list-style-type: none;
+}

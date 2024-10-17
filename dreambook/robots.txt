@@ -1,0 +1,9 @@
+# Файл robots.txt
+Host: chilloutsounds.ru
+# Индексируйте следующие страницы:
+User-agent: *
+Allow: /index.php
+Allow: /keyword.php
+Allow: /titles.php
+Allow: /
+Disallow: /dbs_conn.php
